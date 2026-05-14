@@ -1,0 +1,31 @@
+{
+  "post_type": "kien-thuc",
+  "series_label": "PQR SALES MINDSET | TRAINING SERIES #2",
+  "series_topic": "ỨNG DỤNG AI NGÀNH BẤT ĐỘNG SẢN",
+  "title_main": "3 BỘ PROMPT AI",
+  "title_sub": "MÀ SALE BĐS PQR DÙNG MỖI NGÀY",
+  "highlight_points": [
+    "Prompt #1 — Tóm tắt dự án trong 5 phút",
+    "Prompt #2 — Kịch bản gọi khách lần đầu",
+    "Prompt #3 — Xử lý từ chối theo tâm lý khách"
+  ],
+  "supporting_caption": "Copy về xài liền. AI không thay thế sale — AI nhân tư duy của sale lên.",
+  "icon_suggestions": ["robot", "brain", "chat-bubble", "handshake"],
+  "footer_brand": "TUYỂN DỤNG PQR",
+  "footer_tagline": "Your Prosperity - Our Success",
+  "color_mood": "cream + gold",
+  "layout_hint": "kien-thuc series template — header có badge series #2, body chia 3 cột/3 card cho 3 prompt, footer brand PQR. Để chỗ trống cho icon AI/prompt ở mỗi card.",
+  "aspect_ratio": "4:5",
+  "hero_photo_strategy": "Không cần ảnh người. Dùng layout typography + icon — vì là content training/kien-thuc, audience cần đọc text rõ. Có thể thêm mockup nhẹ chat AI ở góc.",
+  "must_have_elements": [
+    "Badge 'SERIES #2' rõ ở header để link với bài #1",
+    "Số 1/2/3 đánh dấu 3 prompt rõ ràng",
+    "Footer brand TUYỂN DỤNG PQR + slogan",
+    "QR/handle facebook.com/tuyendungpqr (optional)"
+  ],
+  "must_avoid": [
+    "Ảnh stock generic về 'AI tay robot'",
+    "Quá nhiều màu — giữ cream + gold làm chủ đạo",
+    "Font fancy khó đọc — kien-thuc cần đọc dễ"
+  ]
+}

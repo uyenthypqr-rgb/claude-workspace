@@ -1,4 +1,23 @@
 {
   "_comment": "File này được skill auto-fanpage tự tạo và cập nhật. Không cần sửa tay.",
-  "schedules": []
+  "schedules": [
+    {
+      "post_id": "499740783831824_960457416691831",
+      "scheduled_time": "2026-06-02T20:00:00+07:00",
+      "scheduled_epoch_utc": 1780405200,
+      "page": "tuyen-dung-pqr",
+      "page_id": "499740783831824",
+      "topic": "PQR Sales Mindset Series #2 - Ứng dụng AI BĐS",
+      "content_file": "drafts/2026-06-02-kien-thuc-series2-ai-bds.md",
+      "image_file": "scheduled-02062026-2000.png",
+      "media_fbid": "960457346691838",
+      "permalink_url": "https://www.facebook.com/960325756704997/posts/960457416691831",
+      "flow": "2-step (photos published=false → /feed attached_media)",
+      "verified": {
+        "is_published": false,
+        "scheduled_time_match": true,
+        "has_attachments": true
+      }
+    }
+  ]
 }
