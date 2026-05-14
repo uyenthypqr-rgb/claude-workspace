@@ -1,0 +1,12 @@
+{
+  "name": "design-template-renderer",
+  "version": "1.0.0",
+  "description": "Render HTML templates to PNG via headless Chrome (puppeteer-core + system Chrome)",
+  "main": "render.js",
+  "scripts": {
+    "test": "node render.js --template samples/test-template.html --content samples/test-content.json --out /tmp/render-test.png"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}

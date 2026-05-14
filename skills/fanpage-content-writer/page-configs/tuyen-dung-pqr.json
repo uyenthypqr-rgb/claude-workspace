@@ -1,0 +1,310 @@
+{
+  "page_slug": "tuyen-dung-pqr",
+  "page_id": "499740783831824",
+  "page_name": "Tuyển dụng PQR",
+  "brand_full_name": "TUYỂN DỤNG PQR",
+  "brand_slogan": "Your Prosperity - Our Success",
+  "industry": "Đại lý phân phối bất động sản cao cấp",
+  "headquarters": "101 Nguyễn Cơ Thạch, KĐT Sala, P. An Khánh, TP. HCM",
+  "facebook_url": "https://www.facebook.com/tuyendungpqr",
+  "description": "Page tuyển dụng chính thức của PQR — đại lý phân phối bất động sản cao cấp tại Việt Nam. Tuyển sale BĐS là chính (mọi level), kèm các vị trí leader, marketing/content/designer, intern. Hoạt động đa thị trường: HCM, Hà Nội, Đà Nẵng, Phú Quốc, Nha Trang và các vùng dự án.",
+  "target_audience": {
+    "primary": "Sale BĐS tiềm năng — fresher đến senior, 22-35 tuổi, có khát vọng thu nhập cao, sẵn sàng học và đi thị trường",
+    "secondary": "Trưởng nhóm/trưởng phòng kinh doanh có kinh nghiệm dẫn dắt team",
+    "tertiary": "Marketing/Content/Designer support sale, sinh viên năm cuối làm part-time/intern"
+  },
+  "footer_signature": "\n-----------------------------\n🔎 𝐓𝐔𝐘𝐄̂̉𝐍 𝐃𝐔̣𝐍𝐆 𝐏𝐐𝐑 | Your Prosperity - Our Success\n📍 Trụ sở chính: 101 Nguyễn Cơ Thạch KĐT Sala P. An Khánh TP. HCM",
+
+  "tone_presets": {
+    "tre-trung-chuyen-nghiep": {
+      "label": "Trẻ trung + chuyên nghiệp (mặc định cho tuyển sale fresher/junior, văn hoá team, minigame)",
+      "personality": [
+        "Trẻ trung, năng lượng",
+        "Chuyên nghiệp nhưng không cứng",
+        "Dùng 'tụi mình' / 'team PQR'",
+        "Thẳng thắn về thu nhập, không hứa suông",
+        "Có chút humor nhẹ phù hợp Gen Z"
+      ],
+      "do": [
+        "Hook đi thẳng vào điều người đọc quan tâm (thu nhập, cơ hội học, môi trường)",
+        "Liệt kê benefits cụ thể: range hoa hồng %, thưởng team, đào tạo",
+        "Câu ngắn, đoạn ngắn (max 3 dòng/đoạn)",
+        "Emoji 2-4 cái có mục đích, dùng làm break vision",
+        "Kết bằng CTA rõ + deadline nếu có"
+      ],
+      "dont": [
+        "Không 'Xin chào quý ứng viên...'",
+        "Không từ HR khoa trương: 'năng động', 'sáng tạo', 'đam mê', 'gia đình PQR'",
+        "Không clickbait: 'Bạn sẽ KHÔNG TIN...', '🔥🔥🔥 HOT 🔥🔥🔥'",
+        "Không engagement bait: 'comment để biết', 'tag bạn bè', 'share nhận quà'"
+      ]
+    },
+    "sang-trong-cao-cap": {
+      "label": "Sang trọng + brand cao cấp (cho tuyển senior, leader, kiến thức BĐS cao cấp, success story)",
+      "personality": [
+        "Chuyên nghiệp, điềm tĩnh",
+        "Dùng 'PQR' / 'đội ngũ PQR' thay vì 'tụi mình'",
+        "Ít emoji (0-2 cái), không emoji vô nghĩa",
+        "Nhấn mạnh đẳng cấp sản phẩm, uy tín, lifestyle high-end",
+        "Câu hoàn chỉnh, có nhịp"
+      ],
+      "do": [
+        "Mở bằng 1 quan sát/insight về thị trường BĐS cao cấp",
+        "Nhắc cụ thể project/đối tác/khách hàng (đã được phép công khai)",
+        "Trích dẫn con số thật: GMV, deal closed, market share",
+        "CTA 'apply' với link career page hoặc form chính thức"
+      ],
+      "dont": [
+        "Không slang Gen Z, không meme",
+        "Không 'tụi mình' / 'em ơi anh ơi'",
+        "Không cảm thán quá đà ('Wow!', 'Đỉnh!')",
+        "Không nói lương cụ thể của 1 cá nhân"
+      ]
+    },
+    "truyen-cam-hung": {
+      "label": "Truyền cảm hứng + hướng nghiệp (cho before/after, success story, đào tạo, bắt trend động lực)",
+      "personality": [
+        "Tích cực, có mục đích",
+        "Câu chuyện thật người thật việc",
+        "Show transformation, don't tell motivation",
+        "Mix kể chuyện + insight nghề"
+      ],
+      "do": [
+        "Mở bằng 1 khoảnh khắc bước ngoặt cụ thể của 1 nhân vật",
+        "Trích quote thật từ nhân vật (đã xin phép)",
+        "Kết bằng câu hỏi gợi mở / CTA mở (xem JD, follow page)",
+        "Có thể dùng số liệu thay đổi (lương trước/sau, level trước/sau)"
+      ],
+      "dont": [
+        "Không sến, không 'hành trình vạn dặm bắt đầu từ một bước chân'",
+        "Không hứa cuộc đời sẽ đổi nếu vào PQR",
+        "Không so sánh trực tiếp với công ty đối thủ",
+        "Không bịa quote — chỉ dùng quote thật đã xin phép"
+      ]
+    }
+  },
+
+  "tone_selection_guide": {
+    "rule": "Chọn 1 trong 3 tone preset dựa trên post_type + audience. Không trộn 2 tone trong 1 bài.",
+    "default_per_post_type": {
+      "tuyen-dung-sale": "tre-trung-chuyen-nghiep",
+      "tuyen-dung-leader": "sang-trong-cao-cap",
+      "kien-thuc": "sang-trong-cao-cap",
+      "minigame": "tre-trung-chuyen-nghiep",
+      "van-hoa-noi-bo": "tre-trung-chuyen-nghiep",
+      "dao-tao-noi-bo": "truyen-cam-hung",
+      "bat-trend": "tre-trung-chuyen-nghiep",
+      "success-story": "truyen-cam-hung",
+      "employer-branding": "tre-trung-chuyen-nghiep"
+    }
+  },
+
+  "default_hashtags": [
+    "#TuyenDungPQR",
+    "#PQR",
+    "#YourProsperityOurSuccess"
+  ],
+  "topic_hashtags": {
+    "sale-bds": ["#TuyenSaleBDS", "#SaleBatDongSan", "#NgheSaleBDS"],
+    "leader": ["#TuyenTruongNhomBDS", "#TruongPhongKinhDoanh"],
+    "marketing": ["#TuyenMarketing", "#ContentMarketing"],
+    "intern": ["#ThucTapSinh", "#TuyenIntern", "#PartTimeBDS"],
+    "kien-thuc": ["#KienThucBDS", "#DauTuBDS", "#BatDongSanCaoCap"],
+    "minigame": ["#PQRMinigame", "#QuaTangPQR"],
+    "van-hoa": ["#LifeAtPQR", "#VanHoaPQR", "#TeamPQR"],
+    "dao-tao": ["#DaoTaoPQR", "#PQRAcademy", "#KyNangSale"],
+    "bat-trend": ["#PQRTrend"],
+    "thi-truong": {
+      "hcm": ["#BDSHCM", "#TuyenDungHCM"],
+      "hanoi": ["#BDSHaNoi", "#TuyenDungHaNoi"],
+      "danang": ["#BDSDaNang"],
+      "phuquoc": ["#BDSPhuQuoc"],
+      "nhatrang": ["#BDSNhaTrang"]
+    }
+  },
+
+  "default_cta": {
+    "apply_link": "👉 Ứng tuyển: [LINK]\n📅 Hạn nộp: [DEADLINE]",
+    "inbox": "💬 Inbox page để được tư vấn vị trí phù hợp",
+    "comment_minigame": "👇 Tham gia bằng cách: [LUẬT CHƠI CỤ THỂ]",
+    "soft_follow": "📌 Theo dõi page để không bỏ lỡ cơ hội tiếp theo",
+    "apply_multi_market": "👉 Ứng tuyển tại thị trường gần bạn: [LINK]\n📍 Đang tuyển: HCM | Hà Nội | Đà Nẵng | Phú Quốc | Nha Trang"
+  },
+
+  "post_types": {
+    "tuyen-dung-sale": {
+      "description": "Bài tuyển sale BĐS — vị trí cốt lõi, đăng thường xuyên, có thể đa thị trường",
+      "default_tone": "tre-trung-chuyen-nghiep",
+      "structure": [
+        "hook (1-2 dòng giật mood, có số/insight)",
+        "vi_tri_thi_truong (vị trí cụ thể + thị trường: HCM/HN/ĐN/PQ/NT)",
+        "diem_hap_dan (3-4 gạch đầu dòng: hoa hồng %, đào tạo, sản phẩm cao cấp, văn hoá)",
+        "yeu_cau_co_ban (2-3 must-have, không quá khắt khe vì có đào tạo)",
+        "cta_with_deadline",
+        "hashtags"
+      ],
+      "max_hashtags": 5,
+      "ideal_length_chars": [600, 1200],
+      "preferred_visual": "Ảnh team mặc đồng phục PQR / ảnh project BĐS cao cấp / video 30s giới thiệu vị trí"
+    },
+    "tuyen-dung-leader": {
+      "description": "Tuyển trưởng nhóm/trưởng phòng kinh doanh — yêu cầu cao hơn",
+      "default_tone": "sang-trong-cao-cap",
+      "structure": [
+        "hook (insight về quản trị team sale)",
+        "vi_tri_va_quy_mo (level + size team dự kiến)",
+        "trach_nhiem_chinh (3-4 ý)",
+        "yeu_cau (kinh nghiệm năm, deal đã closed, soft skill)",
+        "che_do (lương + % team + bonus)",
+        "cta_apply_link",
+        "hashtags"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [800, 1400],
+      "preferred_visual": "Ảnh leader đang dẫn meeting / project flagship đang phân phối"
+    },
+    "kien-thuc": {
+      "description": "Tuyến kiến thức — chia sẻ insight về BĐS cao cấp, thị trường, nghề sale (dạy + branding)",
+      "default_tone": "sang-trong-cao-cap",
+      "structure": [
+        "hook (1 câu hỏi/khẳng định trái ngược kỳ vọng)",
+        "noi_dung_chinh (3-4 điểm có dẫn chứng, số liệu nếu có)",
+        "uu_diem_pqr (cách PQR áp dụng, không quảng cáo lộ liễu)",
+        "cta_soft (mời theo dõi page, đọc bài tiếp theo, hoặc apply nếu hợp)",
+        "hashtags"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [800, 1500],
+      "preferred_visual": "Infographic số liệu / ảnh project / chart thị trường (chỉ dùng nguồn đáng tin)",
+      "must_cite_source": true
+    },
+    "minigame": {
+      "description": "Tuyến minigame — tăng tương tác, mở rộng reach, tuyển ứng viên qua trải nghiệm vui",
+      "default_tone": "tre-trung-chuyen-nghiep",
+      "structure": [
+        "hook (1 câu hấp dẫn về phần thưởng + ngắn gọn về luật)",
+        "luat_choi (3-5 bước, đánh số rõ ràng — KHÔNG vi phạm engagement bait policy)",
+        "qua_tang (cụ thể: voucher, sách BĐS, gear PQR)",
+        "thoi_han (ngày kết thúc + ngày công bố)",
+        "luu_y_minh_bach (tiêu chí chọn người trúng)",
+        "hashtags"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [400, 800],
+      "preferred_visual": "Ảnh quà tặng / poster minigame brand PQR",
+      "compliance_note": "TUYỆT ĐỐI tuân thủ chính sách Facebook về promotion: không yêu cầu tag bạn bè BẮT BUỘC, không yêu cầu share lên timeline cá nhân BẮT BUỘC. Có thể khuyến khích nhưng phải nói 'không bắt buộc để tham gia'."
+    },
+    "van-hoa-noi-bo": {
+      "description": "Tuyến văn hoá nội bộ — kể chuyện life at PQR, sinh nhật, team building, hậu trường",
+      "default_tone": "tre-trung-chuyen-nghiep",
+      "structure": [
+        "hook (mô tả khung cảnh/thời điểm cụ thể)",
+        "khoanh_khac (1 moment thật, có nhân vật)",
+        "values_implied (show, don't tell — không nói 'team mình rất đoàn kết')",
+        "cta_soft (mời follow page để xem thêm, hoặc xem JD nếu hợp văn hoá)",
+        "hashtags"
+      ],
+      "max_hashtags": 3,
+      "ideal_length_chars": [400, 800],
+      "preferred_visual": "Ảnh thật do nội bộ chụp (không dùng stock), tỉ lệ 4:5"
+    },
+    "dao-tao-noi-bo": {
+      "description": "Tuyến đào tạo nội bộ — show chương trình PQR Academy, training session, mentor hệ thống",
+      "default_tone": "truyen-cam-hung",
+      "structure": [
+        "hook (1 câu nói/insight từ training session)",
+        "noi_dung_dao_tao (chủ đề + ai dạy + đối tượng học)",
+        "ket_qua_hoc_vien (quote/feedback thật từ học viên, đã xin phép)",
+        "lich_dao_tao_tiep (nếu có)",
+        "cta (mời apply để được training như vậy, hoặc follow page)",
+        "hashtags"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [600, 1200],
+      "preferred_visual": "Ảnh training session thật / video 30-60s recap"
+    },
+    "bat-trend": {
+      "description": "Tuyến bắt trend — gắn brand vào trend đang nóng, vẫn giữ tone PQR (không gượng)",
+      "default_tone": "tre-trung-chuyen-nghiep",
+      "structure": [
+        "trend_reference (1-2 dòng nhắc trend, không cần giải thích dài)",
+        "goc_PQR (cách PQR/sale BĐS liên hệ trend này)",
+        "punchline (twist hài nhẹ hoặc insight)",
+        "cta_soft (theo dõi page / apply nếu hợp)",
+        "hashtags (gồm hashtag trend + brand)"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [200, 600],
+      "preferred_visual": "Meme brand / ảnh nhân viên tái hiện trend / video TikTok-style",
+      "compliance_note": "Trend phải SAFE — không bắt trend chính trị/tôn giáo/chỉ trích cá nhân/phân biệt. Check trend đã peak chưa (đăng quá muộn = vô duyên)."
+    },
+    "success-story": {
+      "description": "Tuyến câu chuyện thành công — nhân viên/khách hàng thật, transformation cụ thể",
+      "default_tone": "truyen-cam-hung",
+      "structure": [
+        "hook (intro nhân vật + 1 câu hook về thay đổi)",
+        "background (xuất phát điểm — thẳng thắn, không tô hồng)",
+        "buoc_ngoat (khoảnh khắc/quyết định)",
+        "ket_qua (số liệu cụ thể: thu nhập, level, deal closed)",
+        "quote_nhan_vat (đã xin phép)",
+        "cta_soft",
+        "hashtags"
+      ],
+      "max_hashtags": 4,
+      "ideal_length_chars": [800, 1400],
+      "preferred_visual": "Ảnh chân dung thật của nhân vật (xin phép) + ảnh moment công việc",
+      "must_have_consent": true
+    }
+  },
+
+  "forbidden_topics": [
+    "So sánh trực tiếp với công ty đối thủ (DKRA, CenLand, Đất Xanh, Hưng Thịnh, Vinhomes Sale...)",
+    "Tiết lộ giá deal cụ thể của khách hàng (vi phạm bảo mật)",
+    "Lương/hoa hồng cụ thể của 1 cá nhân trong post công khai (chỉ nói range)",
+    "Drama hoặc lý do nhân viên cũ nghỉ việc",
+    "Chính trị, tôn giáo, các vấn đề nhạy cảm chính sách BĐS đang tranh cãi",
+    "Bình luận tiêu cực về chủ đầu tư hoặc project khác",
+    "Joke về giới tính, tuổi tác, ngoại hình, vùng miền",
+    "Quảng cáo project cụ thể nếu chưa được CĐT cho phép truyền thông",
+    "Hứa lương/hoa hồng vô căn cứ ('làm 1 tháng mua xe', 'năm đầu trăm triệu/tháng')",
+    "Nội dung huy động vốn / cam kết lợi nhuận trá hình"
+  ],
+
+  "best_post_times_vn": {
+    "weekday": ["07:30-08:30", "12:00-13:00", "19:30-21:30"],
+    "weekend": ["09:00-11:00", "20:00-22:00"],
+    "best_days_for_recruitment": ["Thứ 3", "Thứ 4", "Thứ 5"],
+    "best_days_for_minigame": ["Thứ 6", "Thứ 7"],
+    "best_days_for_kien_thuc": ["Thứ 2", "Thứ 4"],
+    "avoid_days": ["Sáng thứ 2 trước 9h", "Chiều thứ 6 sau 18h", "Sáng Chủ nhật trước 10h"]
+  },
+
+  "engagement_targets": {
+    "min_reach_per_post": 1000,
+    "min_engagement_rate": 0.025,
+    "track_metrics": [
+      "reach",
+      "reactions",
+      "comments",
+      "shares",
+      "click_apply_link",
+      "inbox_started",
+      "follow_gained"
+    ]
+  },
+
+  "regional_markets": [
+    {"slug": "hcm", "name": "TP. Hồ Chí Minh", "is_headquarter": true},
+    {"slug": "hanoi", "name": "Hà Nội", "is_headquarter": false},
+    {"slug": "danang", "name": "Đà Nẵng", "is_headquarter": false},
+    {"slug": "phuquoc", "name": "Phú Quốc", "is_headquarter": false},
+    {"slug": "nhatrang", "name": "Nha Trang", "is_headquarter": false}
+  ],
+
+  "token_info": {
+    "drive_file_id": "12zkHHSQPNySgNiZJNm-TnTorlPzLZf-A",
+    "drive_file_name": "facebook-secrets-pqr-tuyen-dung",
+    "env_var_name": "PAGE_3_TOKEN",
+    "expires_around": "2026-07-08"
+  }
+}

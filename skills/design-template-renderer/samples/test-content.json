@@ -1,0 +1,10 @@
+{
+  "title": "PQR",
+  "subtitle": "Tiếng Việt diacritics test",
+  "tests": [
+    { "text": "ă â ê ô ơ ư đ — full diacritics" },
+    { "text": "Tư duy sale thực chiến — chính chữ này phải đúng" },
+    { "text": "Cộng hòa xã hội chủ nghĩa Việt Nam" },
+    { "text": "Đại lý phân phối bất động sản cao cấp" }
+  ]
+}

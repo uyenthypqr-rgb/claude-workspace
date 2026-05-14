@@ -1,0 +1,30 @@
+{
+  "header": "📌 PQR SALES MINDSET",
+  "series_label": "TRAINING SERIES",
+  "series_number": "#02",
+  "title_line1": "HIỂU NGHỀ TRƯỚC",
+  "title_line2": "KHI LÀM SALE",
+  "subtitle": "7 ngày đầu với BĐS — Bỏ cuộc hay chinh phục?",
+  "big_number": "168",
+  "big_number_label": "GIỜ",
+  "cards_cols": "3",
+  "cards": [
+    {
+      "number": "01",
+      "title": "NGÀY 1-3",
+      "body": "Thấu cảm khách hàng thượng lưu — học ngôn ngữ và nhịp sống của họ."
+    },
+    {
+      "number": "02",
+      "title": "NGÀY 4-6",
+      "body": "Bản lĩnh thực chiến — Leader sát cánh xử lý từ chối ngay tại chỗ."
+    },
+    {
+      "number": "03",
+      "title": "NGÀY 7",
+      "body": "Thành quả đầu tay — Khách hàng tiềm năng đầu tiên và gọi điện đúng chuẩn."
+    }
+  ],
+  "cta": "INBOX NGAY → NHẬN LỊCH PHỎNG VẤN",
+  "footer_tagline": "Nơi mindset tạo nên bản lĩnh sale BĐS cao cấp."
+}

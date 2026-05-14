@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets / overrides
+settings.local.json
+*.local.json
+.env
+.env.*
+**/start-mcp.sh
+
+# Renders / outputs (regenerable)
+**/output/
+**/renders/
+**/*.png
+**/*.jpg
+**/*.jpeg
+!**/brand-assets/**/*.png
+!**/brand-assets/**/*.jpg
+
+# Logs
+*.log
+npm-debug.log*

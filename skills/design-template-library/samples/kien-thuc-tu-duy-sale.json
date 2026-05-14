@@ -1,0 +1,35 @@
+{
+  "header": "📌 PQR SALES MINDSET",
+  "series_label": "TRAINING SERIES",
+  "series_number": "#02",
+  "title_line1": "TƯ DUY SALE",
+  "title_line2": "THỰC CHIẾN",
+  "subtitle": "Khi lý thuyết dừng lại, nghề mới bắt đầu.",
+  "big_number": "4",
+  "big_number_label": "TƯ DUY THỰC CHIẾN",
+  "cards_cols": "4",
+  "cards": [
+    {
+      "number": "01",
+      "title": "ĐỪNG TRẢ LỜI BẰNG CON SỐ",
+      "body": "Hỏi ngược: 'Anh đang quan tâm gì nhất — tầm nhìn, diện tích, hay tiến độ?'"
+    },
+    {
+      "number": "02",
+      "title": "ĐỌC IM LẶNG CỦA KHÁCH",
+      "body": "3 giây sau khi xem mặt bằng = khoảnh khắc quan trọng hơn câu 'đẹp đấy' lịch sự."
+    },
+    {
+      "number": "03",
+      "title": "BÁN MỘT QUYẾT ĐỊNH",
+      "body": "Khách tự tin kể lại được với vợ/chồng/đối tác — không cần ép chốt nhanh."
+    },
+    {
+      "number": "04",
+      "title": "PHẢN ĐỐI = YÊU CẦU THÊM TIN",
+      "body": "'Để anh suy nghĩ thêm' không phải từ chối — là chưa đủ dữ liệu để bảo vệ quyết định."
+    }
+  ],
+  "cta": "INBOX → CHƯƠNG TRÌNH ĐÀO TẠO",
+  "footer_tagline": "Nơi hành trình làm sale bắt đầu từ sự thấu hiểu, không chỉ kỹ năng bán hàng."
+}

@@ -1,0 +1,111 @@
+{
+  "brand": {
+    "name": "PQR",
+    "full_name": "TUYỂN DỤNG PQR",
+    "slogan": "Your Prosperity - Our Success",
+    "industry": "Đại lý phân phối bất động sản cao cấp",
+    "headquarters": "101 Nguyễn Cơ Thạch, KĐT Sala, P. An Khánh, TP. HCM"
+  },
+  "colors": {
+    "background": "#F5EFDF",
+    "background_white": "#FFFFFF",
+    "background_dark": "#1F2A3D",
+    "primary_gold": "#B99A44",
+    "gold_light": "#DDC96C",
+    "gold_dark": "#966C26",
+    "text_dark": "#1F2A3D",
+    "text_charcoal": "#333333",
+    "text_gray": "#555555",
+    "accent_teal": "#4A8B9C",
+    "accent_rose": "#D49B95",
+    "card_bg_overlay": "rgba(255, 255, 255, 0.6)",
+    "card_border": "rgba(185, 154, 68, 0.3)",
+    "card_shadow": "rgba(185, 154, 68, 0.15)",
+    "button_shadow": "rgba(185, 154, 68, 0.3)",
+    "gradient_gold": "linear-gradient(135deg, #DDC96C 0%, #BA9B44 50%, #966C26 100%)"
+  },
+  "fonts": {
+    "primary": {
+      "family": "Montserrat",
+      "weights": [400, 500, 600, 700, 900],
+      "files": {
+        "400": "Montserrat-Regular.ttf",
+        "500": "Montserrat-Medium.ttf",
+        "600": "Montserrat-SemiBold.ttf",
+        "700": "Montserrat-Bold.ttf",
+        "900": "Montserrat-Black.ttf"
+      }
+    },
+    "display": {
+      "family": "Playfair Display",
+      "weights": [400, 700, 900],
+      "italic": true,
+      "files": {
+        "400": "PlayfairDisplay-Regular.ttf",
+        "700": "PlayfairDisplay-Bold.ttf",
+        "900": "PlayfairDisplay-Black.ttf",
+        "400i": "PlayfairDisplay-Italic.ttf"
+      }
+    },
+    "script": {
+      "family": "Allura",
+      "weights": [400],
+      "files": {
+        "400": "Allura-Regular.ttf"
+      }
+    }
+  },
+  "typography": {
+    "series_header": { "font": "primary", "weight": 600, "size_pt": 18, "uppercase": true, "letter_spacing_px": 2, "color": "primary_gold" },
+    "series_number": { "font": "primary", "weight": 700, "size_pt": 24, "color": "primary_gold" },
+    "title_main": { "font": "display", "weight": 700, "size_pt": 60, "color": "text_dark" },
+    "title_main_alt": { "font": "primary", "weight": 900, "size_pt": 56, "color": "text_dark" },
+    "subtitle_italic": { "font": "display", "weight": 400, "italic": true, "size_pt": 26, "color": "primary_gold" },
+    "subtitle_script": { "font": "script", "weight": 400, "size_pt": 32, "color": "primary_gold" },
+    "big_number": { "font": "display", "weight": 900, "size_pt": 220, "fill": "gradient_gold" },
+    "big_number_label": { "font": "primary", "weight": 600, "size_pt": 32, "uppercase": true, "color": "text_dark" },
+    "card_label": { "font": "primary", "weight": 700, "size_pt": 16, "uppercase": true, "letter_spacing_px": 1, "color": "text_dark" },
+    "card_body": { "font": "primary", "weight": 500, "size_pt": 14, "line_height": 1.4, "color": "text_charcoal" },
+    "card_number": { "font": "display", "weight": 700, "size_pt": 36, "color": "primary_gold" },
+    "cta_button": { "font": "primary", "weight": 700, "size_pt": 16, "uppercase": true, "color": "background_white" },
+    "phone_email": { "font": "primary", "weight": 500, "size_pt": 14, "color": "text_charcoal" },
+    "hashtag": { "font": "primary", "weight": 400, "size_pt": 12, "color": "text_gray" },
+    "tagline_footer": { "font": "primary", "weight": 500, "size_pt": 10, "uppercase": true, "letter_spacing_px": 2, "color": "text_gray" },
+    "quote_main": { "font": "display", "weight": 400, "italic": true, "size_pt": 32, "line_height": 1.4, "color": "text_dark" }
+  },
+  "spacing": {
+    "page_padding_px": 60,
+    "section_gap_px": 32,
+    "card_padding_px": 20,
+    "card_radius_px": 12,
+    "button_radius_px": 8,
+    "button_padding_y_px": 14,
+    "button_padding_x_px": 32
+  },
+  "logo_variants": {
+    "color": "logo-pqr-color.png",
+    "white": "logo-pqr-white.png",
+    "gray": "logo-pqr-gray.png"
+  },
+  "footer_signature_unicode": "\n-----------------------------\n🔎 𝐓𝐔𝐘𝐄̂̉𝐍 𝐃𝐔̣𝐍𝐆 𝐏𝐐𝐑 | Your Prosperity - Our Success\n📍 Trụ sở chính: 101 Nguyễn Cơ Thạch KĐT Sala P. An Khánh TP. HCM",
+  "hero_photo_libraries": {
+    "_note": "Folder Drive chứa ảnh team/staff PQR. CHÚ Ý: lẫn lộn nhân sự đang làm và đã nghỉ — Phase 2 sẽ build skill UI cho user pick manual.",
+    "drive_folders": [
+      {
+        "id": "1P9_JReRpfZPJyJOSeH_mOVwvYmRNOKsa",
+        "url": "https://drive.google.com/drive/folders/1P9_JReRpfZPJyJOSeH_mOVwvYmRNOKsa"
+      },
+      {
+        "id": "14jBQY4J_Wn7NI7yaZ0zpju3Hp8UH0-vd",
+        "url": "https://drive.google.com/drive/folders/14jBQY4J_Wn7NI7yaZ0zpju3Hp8UH0-vd"
+      }
+    ]
+  },
+  "drive_output_folders": {
+    "_note": "Subfolder trong Link ấn phẩm để upload design auto-render",
+    "kien_thuc": "1vooKzitOydlKaQYA45OfzGYTNWZuEPvL",
+    "tuyen_dung": null,
+    "minigame": null,
+    "van_hoa": null
+  }
+}

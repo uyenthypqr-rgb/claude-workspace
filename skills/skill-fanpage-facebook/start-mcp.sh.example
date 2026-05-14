@@ -1,0 +1,10 @@
+#!/bin/bash
+# Copy → start-mcp.sh, điền giá trị thật rồi chạy trước khi mở Claude Code
+# Usage: cp start-mcp.sh.example start-mcp.sh && ./start-mcp.sh
+
+node node_modules/@supercorp/facebook-mcp/dist/index.js \
+  --facebookAppId YOUR_FB_APP_ID \
+  --facebookAppSecret YOUR_FB_APP_SECRET \
+  --facebookRedirectUri http://localhost:8000/callback \
+  --transport sse \
+  --port 8000

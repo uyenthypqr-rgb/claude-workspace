@@ -1,0 +1,6 @@
+.claude/settings.json
+.claude/settings.local.json
+.env
+*.env
+node_modules/
+decoded_full.txt

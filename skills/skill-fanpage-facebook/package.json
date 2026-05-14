@@ -1,0 +1,17 @@
+{
+  "name": "skill-fanpage-facebook",
+  "version": "1.0.0",
+  "description": "Đọc nội dung từ Google Drive (Doc hoặc Sheet) và đăng/nhắc đăng lên Facebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supercorp/facebook-mcp": "^1.9.2",
+    "googleapis": "^171.4.0"
+  }
+}
